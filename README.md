@@ -28,5 +28,7 @@ Test and Debug:
 
 Test the calculator to ensure all buttons and operations work correctly.
 Debug any issues and make necessary adjustments to the code.
+## Output:
+![image](https://github.com/Gokkul-M/Modern_Landing_page/assets/144870543/dabd8d21-e584-44dd-8f2d-c5c6474adf72)
 ## Result:
 The result is a fully functional, responsive calculator that allows users to perform basic arithmetic operations. The calculator has a clean and user-friendly interface with buttons for digits, decimal point, arithmetic operations, and control functions (AC and DEL). The display screen shows user inputs and results, and the calculator handles various edge cases gracefully.
