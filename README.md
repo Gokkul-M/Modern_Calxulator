@@ -1,4 +1,4 @@
-# Modern_Landing_page
+# Modern_Calculator
 ## Aim:
 To create a basic calculator using HTML, CSS, and JavaScript that provides an interactive interface with buttons for basic arithmetic operations (addition, subtraction, multiplication, and division). The calculator will have a display screen to show user input and results, utilizing the CSS grid system for button alignment and JavaScript for handling user input and performing calculations.
 
